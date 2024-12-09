@@ -1,3 +1,16 @@
-# 2048flutter
-Un simple 2048 fait en flutter pour le projet développement mobile LP3DWLMC. <br>
-Inspiré par le jeu [original](https://play.google.com/store/apps/details/2048?id=com.gabrielecirulli.app2048&amp;hl=ln&amp;pli=1) fait par Gabriele Cirulli en 2014.
+# projet2048
+
+projet2048 MOUSSA BENAYCINE Ishaq
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
